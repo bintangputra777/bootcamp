@@ -1,2 +1,0 @@
-menambah test.txt
-menambah baris di file3.txt
