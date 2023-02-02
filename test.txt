@@ -1,0 +1,2 @@
+nebanbah file1.txt
+menambah baris file2.txt
